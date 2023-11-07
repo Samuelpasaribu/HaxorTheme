@@ -1643,7 +1643,7 @@ var labelArray = [<b:if cond='data:post.labels'><b:loop values='data:post.labels
             <b:if cond='data:post.featuredImage.isResizable or data:post.thumbnail'>
               <div class='item-thumbnail'>
                 <b:with value='resizeImage(data:post.featuredImage, 72, &quot;72:58&quot;)' var='image'>
-                <a expr:href='data:post.href' target='_blank'>
+                <a expr:href='data:post.href' aria-label='trending' target='_blank'>
                   <b:if cond='data:i==0'>
                     <span class='first-thumb b-lazy' expr:data-src='resizeImage(data:post.featuredImage, 310, &quot;10:6&quot;)' expr:data-src-medium='resizeImage(data:post.featuredImage, 450, &quot;10:6&quot;)'/>
                       <b:else/>
