@@ -222,7 +222,7 @@ img{text-indent:-1000px}
 #main-wrapper{position:relative;width:640px;word-wrap:break-word;margin:0;padding:0;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;float:left}
 #main-wrapper.queryview{margin:0 auto;float:none}
 #main-wrapper.pageview{margin:0 auto;float:none;width:100%}
-#sidebar-wrapper{position:relative;display:block;width:300px;word-wrap:break-word;margin:0;padding:0;float:right;}
+#sidebar-wrapper{position:relative;display:block;width:300px;word-wrap:break-word;margin:0;padding:0;float:right;will-change:transform}
 .sidebar{color:#666;line-height:1.3em;border-top:0;padding:0}
 .sidebar h2,.sidebar h3{color:#333;font-size:20px;padding:0 0 10px;border-bottom:5px solid var(--bg-link);text-align:left;font-weight:700;position:relative;clear:both;display: inline-block;}
 .sidebar h2:after,.sidebar h2:after{content:'';display:block;left:0;clear: both;}
