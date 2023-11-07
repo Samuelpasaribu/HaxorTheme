@@ -1,7 +1,7 @@
 # haxortheme
 Blogger Template HaxorTheme<br/>
 <br/>
-HaxorTheme Versi 1.5 <a href='https://github.com/samuelpasaribu/haxortheme/archive/refs/heads/main.zip'>Download files</a><br/>
+HaxorTheme Version : 1.0.0 <a href='https://github.com/samuelpasaribu/haxortheme/archive/refs/heads/main.zip'>Download files</a><br/>
 <a href='https://haxortheme.blogspot.com/p/change-log.html'>ChangeLog</a><br/>
 <br/>
 View <a href='https://haxortheme.blogspot.com/'>Demo</a><br/>
