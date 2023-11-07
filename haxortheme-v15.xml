@@ -139,7 +139,7 @@ var zoneamediam1=window.location.toString();if(zoneamediam1.indexOf("?m=1")>0){v
 
 /*Blogger Template Style
 Name    : HaxorTheme
-Version : 1.5.1
+Version : 1.0.0
 Author  : Samuel Pasaribu
 Url     : https://www.samuelpasaribu.com/
 Sources used: https://github.com/wingkwong/lazy-load-youtube-videos,https://github.com/dinbror/blazy,https://github.com/abouolia/sticky-sidebar
@@ -625,7 +625,7 @@ button[disabled],button[disabled]:active{color:#000;cursor:default}
 <![CDATA[
 body#layout{background:#ddd}
 body#layout #body-feed{padding:10px;max-width:800px;margin:0 auto}
-body#layout #body-feed:before{content:'HaxorTheme 1.5';position:absolute;right:10px;top:10px;padding:10px;font-family:Georgia,serif;background:#75539e;color:#fff;font-style:italic;font-weight:700;font-size:18px}
+body#layout #body-feed:before{content:'HaxorTheme 1.0';position:absolute;right:10px;top:10px;padding:10px;font-family:Georgia,serif;background:#75539e;color:#fff;font-style:italic;font-weight:700;font-size:18px}
 body#layout #header{padding:0;position:relative;margin:0}
 body#layout #header-wrapper{max-width:100%;background:linear-gradient(30deg,#44a9d7 19%,#7d2ae8 100%)}
 body#layout #footer-wrapper li,body#layout .mini-list li {list-style:none;}
